@@ -1,0 +1,2 @@
+# karen_josefina_rivera_torres_objeto_seguro
+Proyecto objeto seguro Python
